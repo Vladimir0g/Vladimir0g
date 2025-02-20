@@ -1,5 +1,9 @@
-## Hi there 👋
+## Привет 👋 Меня зовут Вова, я - будущий аналитик!
 
+- Языки: Python, SQL
+- Инструменты: Tableau, Jupyter Notebook, Microsoft Excel
+- Библиотеки: seaborn, plotly, scipy, numpy
+- Коротко обо мне: 🌙
 <!--
 **Vladimir0g/Vladimir0g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
